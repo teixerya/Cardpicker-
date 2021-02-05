@@ -8,6 +8,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 /**
  *
  * @author Ryan Teixeira
+ * Student Number:
  */
 public class Card {
 
