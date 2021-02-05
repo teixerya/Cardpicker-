@@ -7,7 +7,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 
 /**
  *
- * @author Ryan
+ * @author Ryan Teixeira
  */
 public class Card {
 
