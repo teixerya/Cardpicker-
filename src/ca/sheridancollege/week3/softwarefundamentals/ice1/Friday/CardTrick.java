@@ -10,8 +10,9 @@ public class CardTrick {
     public static void main(String[] args){
     
     Card card2 = new Card();
+    card2.setSuit("Spades");
     
-    System.out.println(card2);
+    
         
     }
     
