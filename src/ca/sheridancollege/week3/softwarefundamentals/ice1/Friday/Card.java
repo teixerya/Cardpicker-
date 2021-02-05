@@ -8,7 +8,7 @@ package ca.sheridancollege.week3.softwarefundamentals.ice1.Friday;
 /**
  *
  * @author Ryan Teixeira
- * Student Number:
+ * Sheridan ID Number: 991291764
  */
 public class Card {
 
